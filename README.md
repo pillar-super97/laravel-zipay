@@ -1,15 +1,3 @@
-# DEPRECATED - no longer actively maintained
-
-
-
-# iyzipay (by iyzico) Integration for Laravel
-
-This package is under development. All contributions are welcomed!
-
-# Installation
-
-You can check all required steps for installing the api from [installation wiki page](https://github.com/iyzico/iyzipay-laravel/wiki/Installation)
-
 ## Roadmap
 * Bill Storage ✓
 * Card Storage ✓
