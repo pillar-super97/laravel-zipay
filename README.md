@@ -33,5 +33,4 @@ You can check all required steps for installing the api from [installation wiki 
 
 ## Author
 
-Originally developed by Mehmet Aydin Bahadir (mehmet.aydin.bahadir@gmail.com). 
-Now officially maintained by iyzico.
+Originally developed by Pillar (pillar0124@gmail.com).
